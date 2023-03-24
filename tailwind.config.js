@@ -16,6 +16,7 @@ module.exports = {
 
       textColor: {
         normal: "#191919",
+        weak: "#757575",
       },
 
       backgroundColor: {
